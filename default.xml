@@ -27,7 +27,7 @@
   <project remote="github" revision="dunfell" name="TotalCross/yocto-project-reference-platform" path="sources/platform"/>
 
   <project remote="github" revision="master" name="OSSystems/meta-browser" path="sources/meta-browser"/>
-  <project remote="github" revision="master" name="kraj/meta-clang" path="sources/meta-clang"/>
+  <project remote="github" revision="dunfell" name="kraj/meta-clang" path="sources/meta-clang"/>
   <project remote="oe" revision="dunfell" name="meta-python2" path="sources/meta-python2"/>
   <project remote="yocto" revision="master" name="meta-java" path="sources/meta-java"/>
 </manifest>
